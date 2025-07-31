@@ -44,26 +44,4 @@ SCT_CS_02/
 
 ---
 
-## 📢 LinkedIn Post Template
-
-```
-🖼️ Task 2 Completed: Image Encryption Tool @SkillCraft Technology
-
-🔒 Built a Python tool that:
-- Encrypts images using pixel-level XOR
-- Supports JPG and PNG formats
-- Decrypts using the same encryption key
-
-🧠 What I learned:
-- Image processing using Pillow and NumPy
-- Symmetric encryption using XOR
-- Handling real-world binary data securely
-
-🔗 GitHub: https://github.com/rgr-001/SCT_CS_02
-
-#SkillCraftTechnology #ImageEncryption #CyberSecurity #Python #Task2Complete
-```
-
----
-
 **Made with ❤️ by RGR – SkillCraft Cyber Intern**  
